@@ -1,4 +1,4 @@
-# Crypgo – Free Tailwind CSS & Next.js Website Template
+# Crypgo – a complete DevOps CI/CD nextjs app
 
 #### Preview 
  
