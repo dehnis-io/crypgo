@@ -24,5 +24,5 @@ Design and code is completely written by ..
 
 ## License
 
- jibberish... this is open source
+ This is open source
 
